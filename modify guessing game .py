@@ -1,6 +1,6 @@
 import random
 win_num=random.randint(1,100)
-user_num=int(input("enter the numbre between 1 to 100 :"))
+user_num=int(input("enter the number between 1 to 100 :"))
 guess_num=1
 game_over=False
 while not game_over:
